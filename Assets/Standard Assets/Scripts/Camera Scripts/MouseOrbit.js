@@ -11,7 +11,6 @@ private var x = 0.0;
 private var y = 0.0;
 
 @script AddComponentMenu("Camera-Control/Mouse Orbit")
-
 function Start () {
     var angles = transform.eulerAngles;
     x = angles.y;
@@ -44,3 +43,4 @@ static function ClampAngle (angle : float, min : float, max : float) {
 		angle -= 360;
 	return Mathf.Clamp (angle, min, max);
 }
+

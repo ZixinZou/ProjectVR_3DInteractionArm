@@ -41,7 +41,7 @@ private Vector3 current_effector_position;
 	  DEBUG = true; // Mode DEBUG, affichage sur la console
 	
 	  angles = new double[6];
-	  limit = new double[6];
+	  limit = new double[6]; // Tableau des limites angulaires pour chaque axe du robot (degrés)
 	
 	  limit[0] = 50.0;
 	  limit[1] = 75.0;

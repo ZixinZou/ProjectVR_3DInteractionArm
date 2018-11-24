@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTP.Plugins", "VRTP.Plugins.csproj", "{3429EB4A-6F72-DF05-F64C-8BF66FB743BB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTP", "VRTP.csproj", "{E20664B9-36F0-5413-1E8B-18BAC8C15D07}"
